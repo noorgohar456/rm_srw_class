@@ -1,0 +1,50 @@
+not peer reviewed:
+technical reports
+ms/phd thesis
+
+
+peer reviewed:
+journals
+conferences
+
+
+technical report:
+experimentation documentation
+for ease of use for others
+detailed work, step by step
+record all finding,methods,conclusions,results
+leaded by authors
+can get feedback
+benifits other team members and partners
+no length restriction
+unpublished because not peer reviewed
+
+
+
+
+publish your article before peer review on arXiv.org to avoid your work being stolen
+publish work is peer reviewed and is published by a certain publisher
+rebutal letter against comments of peer reviewed work
+
+
+
+work of conference or workshop is published in form of proceedings.
+
+doctorial consortium for phd students to get feedbacks on their work, phd proposal can also publish
+------------------------------
+workshop:
+
+workshop is a kind of mini conference
+workshop is different from tutorial
+workshop is a best for workl in progress
+conference is accepting mature work
+conference scope is broader
+workshop scope is limited/specific and focused on some topic
+you can publish  4 pages paper in workshop | two column paper
+10 minute presentation
+
+-------------
+conference paper:
+.idea is reasonably mature, you have proofs, evidences, only needs  to be counter checked
+.targetted to general scientific knowledge
+.6 to 8 pages  | 5000 words | 20 minute presentation

@@ -1,0 +1,65 @@
+2 types of research paper
+	1. technical
+	2. Review
+----------------------------
+review paper((secondary paper/secondry study))
+Review paper: summarizes the papers, critically analyze(appraisal) the papers
+
+sections of a paper
+	introduction
+	research methodology
+	review
+	discussion
+	future work
+	conclusion
+
+
+Introduction section contains summary of all other sections
+research methodology contains how you collected the papers,which papers you selected etc
+-----------------------------------------------------
+technical paper (primary paper/primary study)
+sections 
+	introduction
+	related works(literature review)
+	proposed model
+	experiments(prove your technique)
+	discussion or justification of your model(why your technique works)
+	conclusion
+
+
+
+last 5 years literature review is enough
+title is name of the research paper
+topic is name of research paper, abstract of paper, keywords
+
+article is the technical paper
+one journal can be repeated in more than one databases
+
+
+journal: where your paper are published
+publisher: who publishes journal
+
+paper can be published in conference or journal
+publishing in conference is easy
+having no impact factors will not contain hyperlinks in web of science
+
+
+impact factor = no of citation/papers published
+
+open access is freely available- you have to pay for publilshing
+paid access is not freely available- you don't have to pay for publishing
+if you donot have access to web of science, you can go to journal website and see its index
+
+journals having impact factor will belong to SCI
+journals having no impact factors belong to ESCI
+	Science citation index
+	Emerging science citation index
+
+
+mjl.clarivate.com to check journal category
+in pakistan you should publish journals accepted by HEC
+hjrs.hec.gov.pk HEC website
+HEC categories  w x y
+w is sci indexed
+x is esci indexed
+y is else of w,x

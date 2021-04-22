@@ -1,0 +1,41 @@
+RQ:
+what are the existing deep learning based techniques available for 
+voice call transcribtion and eliciting the emotions and context
+of the call?
+-----------------------------
+Inclusion criteria:
+.the paper must have used the audio calls
+.the paper must have transcribed the audio calls into plain-text
+.the paper must have classified call into any emotion such as 
+angry,happy,sad, or neutral
+.the paper may or may not classify the context of emotions
+.The paper converted the audio call recorded in any language
+.The paper must have used either deep learning or machine learning
+.the paper must be published in english language
+.the paper must be published in either conference or in journal
+-----------------------------
+Exclusion criteria:
+.the paper has been published in language other than english
+.the paper has been published before 2016
+.the paper only mentioned the voice call trascription
+-----------------------------
+Quality Assessment Criteria:
+.The paper will be selected for review which has clear objective
+.the methodology of the paper should be clear
+.the results should be clearly mentioned
+-----------------------------
+Data Extraction Strategies:
+.Paper Objective
+.Dataset
+.Methodology
+.Deep learning algo
+.machine learning algo
+.Results
+----------------------------
+paper no--- paper title---objective---Dataset---Method---
+ML/DL algo---Results---Limitations/future work
+----------------------------
+
+Group 1("Speech Data" OR ""Voice Data" OR "Calls Data" OR "Audio Data")
+
+Group 2("")

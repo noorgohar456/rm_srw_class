@@ -1,0 +1,99 @@
+Review paper(SLR):
+	sections: 
+		1.Title
+		2.Abstract
+		3.Introduction
+		4.Research/Review Methodoloyg
+		5.Review of Data Extraction Strategies
+			i.Review Summarization
+			ii.Critical Appraisal
+		6.Discussion
+		7.Future Direction
+		8.Conclusion
+		9.References
+---------------------------
+paper is rejected due to 
+	.cohesive issue
+---------------------------
+Paper submissions outcomes
+.Accept
+.Reject
+.Minor Revisions
+.Major Revisions
+---------------------------
+Major Revisions: 50% chance
+More chances are to get major revisions
+---------------------------
+we start writing with research/review methodology
+then review of data extraction strategies
+then discussion
+then future directions
+then introduction
+then conclusion 
+then abstract
+then title
+---------------------------
+Research methodology(Methods):
+	a line to make him remember again about the study.
+	search strategy
+	inclusion/exlusion
+	quality assessment
+
+	Plan and Conduct phase should be complete
+
+
+	prizma diagram shows all the number of papers during each 
+	step
+	
+	justify why you excluded the papers with examples like 		this paper contained this so we removed this paper
+
+	write in tabular format to save space and beautiful view
+
+
+	write reason to include or exclude papers such as why you 
+	choosen only specific databases
+
+	should be done by all team members
+	if ties, who took the decision and why
+
+	impact factor journals require justification of each 		thing
+	
+	i choose scopus and web of science
+	due to three reason	
+		1. they contain all records from other databases
+
+
+	write small paragraphs
+	each paragraph must have tis own topic
+
+	write like a story to make cohesiveness
+	
+KG service for proof read
+//use professional service for proof reading
+
+-----------------------------------------
+
+Introduction:
+
+Start from broad concept--general to specific
+summary of your whole paper
+show the study gap
+why you differ
+give examples
+justify the need of writing paper
+--gap analysis is done or not
+
+--explicitly state what your study does
+
+-------------------------------------------
+abstract
+100
+150-200
+max 250
+summarize the introduction
+
+review gap
+aim
+your study
+significance of your review
+------------------------------------------
